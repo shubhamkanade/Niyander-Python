@@ -1,0 +1,8 @@
+List => it is a collection of values which can be any of type we can insert values update values for list we have to use [] bracket 
+for e.g name=[23,"saurabh",30.0]
+to print we simply write name on command prompt
+
+Tuples => It is same like List  but difference is that values are immutable i.e we cannot change values for this we can this () bracket
+for e.g tup=(21,36,,14,25)
+
+Set =>It is also same like List but it contain unique values and it will not maintain values in sequence i.e order can be anything due to which we cannot fetch values 
